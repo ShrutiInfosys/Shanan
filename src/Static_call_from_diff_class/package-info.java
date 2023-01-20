@@ -1,0 +1,1 @@
+package Static_call_from_diff_class;
